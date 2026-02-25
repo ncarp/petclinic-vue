@@ -57,9 +57,6 @@
           </tbody>
         </table>
         <div>
-          <!--
-          <button *ngIf="isOwnersDataReceived" class="btn btn-default" (click)="addOwner()">Add Owner</button>
-          -->
           <button class="btn btn-primary" @click="addOwner">Add Owner</button>
         </div>
       </div>

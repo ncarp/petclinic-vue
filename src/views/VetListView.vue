@@ -26,12 +26,6 @@
         </tbody>
       </table>
       <div>
-        <!--
-        <button *ngIf="isVetDataReceived" class="btn btn-primary" (click)="gotoHome()">Home</button>
-        <button *ngIf="isVetDataReceived" class="btn btn-primary" (click)="addVet()">
-          Add Vet
-        </button>
-      -->
         <button class="btn btn-secondary me-2" @click="gotoHome">Home</button>
         <button class="btn btn-primary" @click="addVet">Add Vet</button>
       </div>

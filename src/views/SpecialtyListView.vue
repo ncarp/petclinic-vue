@@ -21,12 +21,6 @@
         </tbody>
       </table>
       <div>
-        <!--
-        <button *ngIf="isSpecialitiesDataReceived" class="btn btn-primary" (click)="gotoHome()">Home</button>
-        <button *ngIf="isSpecialitiesDataReceived" class="btn btn-primary" (click)="showAddSpecialtyComponent()">
-          Add
-        </button>
-      -->
         <button class="btn btn-secondary me-2" @click="gotoHome">Home</button>
         <button class="btn btn-primary" @click="showAddSpecialtyComponent">Add</button>
       </div>

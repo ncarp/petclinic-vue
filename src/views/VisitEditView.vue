@@ -13,12 +13,14 @@
             <th>Owner</th>
           </tr>
         </thead>
-        <tr>
-          <td>{{ pet.name }}</td>
-          <td>{{ pet.birthDate }}</td>
-          <td>{{ pet.type.name }}</td>
-          <td>{{ owner.firstName }} {{ owner.lastName }}</td>
-        </tr>
+        <tbody>
+          <tr>
+            <td>{{ pet.name }}</td>
+            <td>{{ pet.birthDate }}</td>
+            <td>{{ pet.type.name }}</td>
+            <td>{{ owner.firstName }} {{ owner.lastName }}</td>
+          </tr>
+        </tbody>
 
       </table>
 
