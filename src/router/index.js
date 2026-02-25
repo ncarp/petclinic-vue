@@ -28,11 +28,6 @@ const router = createRouter({
       component: () => import('../views/OwnerListView.vue'),
     },
     {
-      path: '/owners/find',
-      name: 'find owners',
-      component: () => import('../views/OwnersFindView.vue'),
-    },
-    {
       path: '/owners/:ownerId',
       name: 'owner details',
       component: () => import('../views/OwnerDetailView.vue'),
