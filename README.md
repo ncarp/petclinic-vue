@@ -1,6 +1,12 @@
-# frontend
+# Spring Petclinic VueJS
 
-This template should help get you started developing with Vue 3 in Vite.
+## VueJS frontend for Spring Petclinic
+
+Warning: **client only**.
+Use REST API from backend [spring-petclinic-rest project](https://github.com/spring-petclinic/spring-petclinic-rest)
+You need start backend server before start frontend application.
+
+This version is using Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
