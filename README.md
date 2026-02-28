@@ -6,7 +6,7 @@ Warning: **client only**.
 Use REST API from backend [spring-petclinic-rest project](https://github.com/spring-petclinic/spring-petclinic-rest)
 You need start backend server before start frontend application.
 
-This version is using Vue 3 in Vite.
+This version is using Vue 3.
 
 ## Recommended IDE Setup
 
