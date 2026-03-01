@@ -6,7 +6,7 @@ Warning: **client only**.
 Use REST API from backend [spring-petclinic-rest project](https://github.com/spring-petclinic/spring-petclinic-rest)
 You need start backend server before start frontend application.
 
-It has been built using VueJS (version 3.5.7).
+It has been built using VueJS (version 3.5.17).
 
 ## Screenshots
 ![Spring Petclinic Vuejs - Owners List](https://github.com/user-attachments/assets/9158dca8-dbe8-4bc0-9147-61605c2ac3d1)
